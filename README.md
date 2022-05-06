@@ -22,3 +22,6 @@ signing the necessary forms.
 Once the delivery phase is over, the process is finished.
 In the second part of the report an alternative version of the problem is proposed, taking into consideration the possible delay in the delivery of the goods and therefore the need to contact the recipient in advance to negotiate a new delivery date.
 preventive way in order to contract a new date of delivery.
+
+[BPM paper.pdf]
+(https://github.com/Savior97/business_process_modeling/files/8642140/Bechini-Lusito.BPM.paper.pdf)
